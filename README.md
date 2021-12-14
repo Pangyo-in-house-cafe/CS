@@ -31,7 +31,7 @@
 ###
 - iOS 앱을 만들고, User Interface를 구성하는 데 필수적인 프레임워크 이름은 무엇인가?
 - Foundation Kit은 무엇이고 포함되어 있는 클래스들은 어떤 것이 있는지 설명하시오.
-- Delegate란 무언인가 설명하고, retain 되는지 안되는지 그 이유를 함께 설명하시오.
+- [Delegate란 무언인가 설명하고, retain 되는지 안되는지 그 이유를 함께 설명하시오.](https://github.com/Pangyo-in-house-cafe/CS/issues/4)
 - NotificationCenter 동작 방식과 활용 방안에 대해 설명하시오.
 - UIKit 클래스들을 다룰 때 꼭 처리해야하는 애플리케이션 쓰레드 이름은 무엇인가?
 - App Bundle의 구조와 역할에 대해 설명하시오.
@@ -61,7 +61,7 @@
 - Left Constraint 와 Leading Constraint 의 차이점을 설명하시오.
 
 ## Swift
-- struct와 class와 enum의 차이를 설명하시오.
+- [struct와 class와 enum의 차이를 설명하시오.](https://github.com/Pangyo-in-house-cafe/CS/issues/3)
 - class의 성능을 향상 시킬수 있는 방법들을 나열해보시오.
 - Copy On Write는 어떤 방식으로 동작하는지 설명하시오.
 - Convinience init에 대해 설명하시오.
