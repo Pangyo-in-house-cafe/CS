@@ -37,7 +37,7 @@
 - App Bundle의 구조와 역할에 대해 설명하시오.
 - 모든 View Controller 객체의 상위 클래스는 무엇이고 그 역할은 무엇인가?
 - 자신만의 Custom View를 만들려면 어떻게 해야하는지 설명하시오.
-- View 객체에 대해 설명하시오.
+- [View 객체에 대해 설명하시오.](https://github.com/Pangyo-in-house-cafe/CS/issues/5)
 - UIView 에서 Layer 객체는 무엇이고 어떤 역할을 담당하는지 설명하시오.
 - UIWindow 객체의 역할은 무엇인가?
 - UINavigationController 의 역할이 무엇인지 설명하시오.
@@ -69,7 +69,7 @@
 - Optional 이란 무엇인지 설명하시오.
 - Struct 가 무엇이고 어떻게 사용하는지 설명하시오.
 - Subscripts에 대해 설명하시오.
-- String은 왜 subscript로 접근이 안되는지 설명하시오.
+- [String은 왜 subscript로 접근이 안되는지 설명하시오.](https://github.com/Pangyo-in-house-cafe/CS/issues/6)
 - instance 메서드와 class 메서드의 차이점을 설명하시오.
 - class 메서드와 static 메서드의 차이점을 설명하시오.
 - Delegate 패턴을 활용하는 경우를 예를 들어 설명하시오.
