@@ -49,7 +49,7 @@
 - URLSession에 대해서 설명하시오.
 - prepareForReuse에 대해서 설명하시오.
 - 다크모드를 지원하는 방법에 대해 설명하시오.
-- ViewController의 생명주기를 설명하시오.
+- [ViewController의 생명주기를 설명하시오.](https://github.com/Pangyo-in-house-cafe/CS/issues/7)
 - TableView와 CollectionView의 차이점을 설명하시오.
 
 ## Autolayout
@@ -80,7 +80,7 @@
 - MVC 구조에 대해 블록 그림을 그리고, 각 역할과 흐름을 설명하시오.
 - 프로토콜이란 무엇인지 설명하시오.
 - Protocol Oriented Programming과 Object Oriented Programming의 차이점을 설명하시오.
-- Hashable이 무엇이고, Equatable을 왜 상속해야 하는지 설명하시오.
+- [Hashable이 무엇이고, Equatable을 왜 상속해야 하는지 설명하시오.](https://github.com/Pangyo-in-house-cafe/CS/issues/8)
 - mutating 키워드에 대해 설명하시오.
 - 탈출 클로저에 대하여 설명하시오.
 - Extension에 대해 설명하시오.
