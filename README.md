@@ -26,7 +26,7 @@
 - App의 Not running, Inactive, Active, Background, Suspended에 대해 설명하시오.
 ###
 - NSOperationQueue 와 GCD Queue 의 차이점을 설명하시오.
-- GCD API 동작 방식과 필요성에 대해 설명하시오.
+- [GCD API 동작 방식과 필요성에 대해 설명하시오.](https://github.com/Pangyo-in-house-cafe/CS/issues/20)
 - Global DispatchQueue 의 Qos 에는 어떤 종류가 있는지, 각각 어떤 의미인지 설명하시오.
 ###
 - iOS 앱을 만들고, User Interface를 구성하는 데 필수적인 프레임워크 이름은 무엇인가?
@@ -118,7 +118,7 @@
 - PassthroughSubject에 대해서 설명하시오
 - @Published에 대해서 설명하시오
 - AnyCancellable에 대해서 설명하시오
-- sink에 대해서 설명하시오
+- [sink에 대해서 설명하시오](https://github.com/Pangyo-in-house-cafe/CS/issues/19)
 - throttle과 debounce의 차이점을 설명하시오.
 
 # Optional
